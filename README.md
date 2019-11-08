@@ -11,6 +11,9 @@
 ### 最新
 
 * [我在 GitHub 上的开源项目](http://blog.gofancy.top/my-github-repos)
+* [老Mac变成服务器](http://blog.gofancy.top/articles/2019/09/07/1567824277235.html)
+* [如何同时设置tabbar圆角与阴影](http://blog.gofancy.top/articles/2019/09/03/1567475802208.html)
+* [Jenkins触发url时获取POST内数据](http://blog.gofancy.top/articles/2019/08/30/1567137140452.html)
 
 
 
