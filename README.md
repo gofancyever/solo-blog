@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Windows下svn hook触发Python脚本通知钉钉](http://blog.gofancy.top/articles/2019/11/12/1573546163220.html)
 * [我在 GitHub 上的开源项目](http://blog.gofancy.top/my-github-repos)
 * [老Mac变成服务器](http://blog.gofancy.top/articles/2019/09/07/1567824277235.html)
 * [如何同时设置tabbar圆角与阴影](http://blog.gofancy.top/articles/2019/09/03/1567475802208.html)
